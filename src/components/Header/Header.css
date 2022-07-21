@@ -1,0 +1,14 @@
+.header{
+    display: flex;
+    align-items: center;
+    gap: 112px;
+}
+.header-logo img{
+    width: 150px;
+    height: 150px;
+}
+.header-text{
+    font-size: 5rem;
+    color:red;
+    font-family: 'Courier New', Courier, monospace;
+}

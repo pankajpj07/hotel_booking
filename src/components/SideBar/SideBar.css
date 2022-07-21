@@ -1,0 +1,13 @@
+ul > li {
+  list-style: none;
+  width: 400px;
+  padding: 20px;
+  border: solid 1px black;
+  text-align: start;
+}
+ul > li > a {
+  text-decoration: none;
+  color: black;
+  font-size: 25px;
+  padding: 10px;
+}
